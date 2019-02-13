@@ -16,10 +16,9 @@
 ### Installation Of Go:
 + Go to this link https://golang.org/doc/install, then click the Download the archive
 + Go to the terminal then type the following:
-<br />
+
    tar -C /usr/local -xzf go$VERSION.$OS-$ARCH.tar.gz <br />
    export PATH=$PATH:/usr/local/go/bin
-<br />
 
 + To check the version of go, type the following in the terminal:
 
