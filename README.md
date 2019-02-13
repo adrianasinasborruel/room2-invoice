@@ -37,7 +37,7 @@
 
 ### Setting up a Network:
 + Clone the projects with the following links: <br />
-https://www.github.com/benedictsuarez888/blockchain-training-labs <br />
+https://github.com/bchinc/blockchain-training-labs <br />
 https://github.com/hyperledger/fabric-samples 
    
 + To clone the links given above, enter the following to the terminal: <br />
@@ -45,7 +45,7 @@ git clone https://github.com/bchinc/blockchain-training-labs <br />
 git clone https://github.com/hyperledger/fabric-samples 
 
 #### Go to the terminal and type the following to make a new folder inside the fabric-samples:
-cd fabric-samples
+cd fabric-samples <br />
 mkdir fabinvoice
 
 #### In the Files, go to folder blockchain-training-labs
