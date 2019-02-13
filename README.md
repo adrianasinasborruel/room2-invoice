@@ -59,3 +59,12 @@ In the Files, go to folder **blockchain-training-labs** and copy the following f
 </pre>
 
 Paste the files in the **fabric-samples/invoice**
+
+In the **blockchain-training-labs** folder, go to the **go folder** and copy the **fabcar.go**. 
+It should be paste it inside **fabric-samples/chaincode/invoice/go** and rename it as **invoice.go**
+<pre>fabric-samples/
+     | ---- chaincode/
+         | ---- invoice/
+                | ---- go/
+                    | ---- invoice.go
+</pre>
