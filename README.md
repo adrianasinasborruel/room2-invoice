@@ -45,6 +45,14 @@ git clone https://github.com/hyperledger/fabric-samples
 
 #### Go to the terminal and type the following to make a new folder inside the fabric-samples:
 cd fabric-samples <br />
-mkdir fabinvoice
+mkdir invoice
 
-#### In the Files, go to folder blockchain-training-labs
+#### In the Files, go to folder blockchain-training-labs and copy the following files:
+<pre>blockchain-training-labs/
+       | ---- node/
+              | ---- app.js
+              | ---- enrollAdmin.js
+              | ---- package.json
+              | ---- registerUser.js
+              | ---- startFabric.sh
+</pre>
