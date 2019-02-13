@@ -58,4 +58,4 @@ In the Files, go to folder #### blockchain-training-labs and copy the following 
               | ---- startFabric.sh
 </pre>
 
-Paste the files in the #### fabric-samples/invoice
+Paste the files in the ***fabric-samples/invoice***
