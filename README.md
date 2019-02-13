@@ -1,6 +1,6 @@
 # Hyperledger-Fabric - Invoice
 
-### DEVELOPMENT ENVIRONMENT:
+### DEVELOPMENT ENVIRONMENT
     + Operating System: Ubuntu 18.04 LTS – 64 bit
     + Processor: Intel® Core™ i3-5010U CPU @ 2.10GHz × 4
     + RAM: 12GB
