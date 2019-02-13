@@ -43,12 +43,12 @@ https://github.com/hyperledger/fabric-samples
 git clone https://github.com/bchinc/blockchain-training-labs <br />
 git clone https://github.com/hyperledger/fabric-samples 
 
-Go to the terminal and type the following to make a new folder inside the fabric-samples:
+Go to the terminal and type the following to make a new folder inside the **fabric-samples**:
 
 cd fabric-samples <br />
 mkdir invoice
 
-In the Files, go to folder #### blockchain-training-labs and copy the following files:
+In the Files, go to folder **blockchain-training-labs** and copy the following files:
 <pre>blockchain-training-labs/
        | ---- node/
               | ---- app.js
@@ -58,4 +58,4 @@ In the Files, go to folder #### blockchain-training-labs and copy the following 
               | ---- startFabric.sh
 </pre>
 
-Paste the files in the ***fabric-samples/invoice***
+Paste the files in the **fabric-samples/invoice**
