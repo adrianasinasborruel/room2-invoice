@@ -2,10 +2,7 @@
 
 ### Development Environment
 + Operating System: Ubuntu 18.04 LTS – 64 bit
-+ Processor: Intel® Core™ i3-5010U CPU @ 2.10GHz × 4
-+ RAM: 12GB
 + Go version: go1.11.5 linux/amd64
-+ Device Type: ASUS Laptop X455LJ
 
 ### Pre-Requisites:
 + Docker Engine: Version 17.03 or higher
@@ -17,10 +14,9 @@
 + A code editor of your choice, we recommend VSCode
 
 ### Installation Of Go:
-+ Go to this link https://golang.org/doc/install,  then click the Download the archive
++ Go to this link https://golang.org/doc/install, then click the Download the archive
 + Go to the terminal then type the following:
 <br />
-
    tar -C /usr/local -xzf go$VERSION.$OS-$ARCH.tar.gz <br />
    export PATH=$PATH:/usr/local/go/bin
 <br />
